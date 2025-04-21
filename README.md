@@ -14,5 +14,3 @@ A desktop application for batch converting video files using FFmpeg with NVIDIA 
 - Python 3.9+
 - FFmpeg installed and available in your system's PATH
 - NVIDIA GPU with NVENC support
-- Tkinter (included with Python)
-- Git (for version control)
