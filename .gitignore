@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# Output folders
+dist/
+build/
+*.egg-info/
